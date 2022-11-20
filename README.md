@@ -7,6 +7,7 @@ In this workshop we will show how to effectively leverage the supersonic and sub
 See the diagram below for the architecture of the app we will be building.
 
 ![alt text](https://github.com/IT-Labs/Quarkus/blob/main/img/overview_app_jvm.png)
+![alt text](https://github.com/IT-Labs/Quarkus/blob/main/img/overview_app_binary.png)
 
 ## Prerequisites
 
